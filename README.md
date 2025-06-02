@@ -4,4 +4,5 @@ Trata sobre un servicio de hosting de maquinas virtuales con la peculiaridad de 
 </p>
 <a href="#">Video de muestra del funcionamiento del servicio</a>
 
-<h4>Recomiendo ver la presentacion para ver de forma resumida todo lo que incluye el proyecto</h4>
+<h4>Recomiendo ver la presentación para ver de forma resumida todo lo que incluye el proyecto</h4>
+<h4>También dispone de la memoria, si quieres obtener toda la informacion detallada, sin faltar contenido.</h4>
